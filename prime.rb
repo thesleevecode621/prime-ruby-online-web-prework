@@ -10,6 +10,6 @@ def prime?(x)
     end
    
 end
-
+true
 end 
 
