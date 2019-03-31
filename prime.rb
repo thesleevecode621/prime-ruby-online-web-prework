@@ -8,7 +8,7 @@ def prime?(x)
     if (x % y) == 0
       return false 
     end
-  end 
+   
 end
 
    true
